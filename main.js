@@ -148,7 +148,7 @@ if(x){
 } else {
 	console.log("False!");
 }
-// A:
+// A:True!
 
 
 // 22.
@@ -157,7 +157,7 @@ if(""){
 } else {
 	console.log("False!");
 }
-// A:
+// A:False!
 
 
 // 23.
@@ -169,7 +169,7 @@ if(x){
 } else {
 	console.log("False!");
 }
-// A:
+// A:False!
 
 
 // 24.
@@ -178,7 +178,7 @@ if(false){
 } else {
 	console.log("False!");
 }
-// A:
+// A:False!
 
 
 // 25.
@@ -187,7 +187,7 @@ if(-5 && 5){
 } else {
 	console.log("False!");
 }
-// A:
+// A:True!
 
 
 // 26.
@@ -196,7 +196,7 @@ if("Hello World!"){
 } else {
 	console.log("False!");
 }
-// A:
+// A:True!
 
 
 // 27.
@@ -205,7 +205,7 @@ if({}){
 } else {
 	console.log("False!");
 }
-// A:
+// A:True!
 
 
 // 28.
@@ -214,7 +214,7 @@ if({name: "Yehuda Katz"}){
 } else {
 	console.log("False!");
 }
-// A:
+// A:True!
 
 
 // 29.
@@ -223,7 +223,7 @@ if(new Date()){
 } else {
 	console.log("False!");
 }
-// A:
+// A:True!
 
 
 // 30.
